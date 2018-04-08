@@ -1,10 +1,12 @@
+body {
+
+  }
 .App {
   text-align: center;
 }
 
-
-
 .App-title {
+  font-family: 'Orbitron';
   font-size: 5.5em;
   color: black;
   padding-top: 10px;
